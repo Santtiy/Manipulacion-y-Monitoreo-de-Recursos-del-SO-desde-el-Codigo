@@ -1,0 +1,125 @@
+> python monitor_recursos.py --umbral 75 --duracion 15 --sin-limpiar
+
+=== VIGILANTE DE RECURSOS ===   23:06:35   (Ctrl+C para salir)
+CPU (12 lógicos) █████████████████████░░░░░░░░░░░░░░░░░░░  52.9 %
+RAM               ██████████████████████████████████░░░░░░  85.2 %
+RAM usada: 13.33 GB / 15.65 GB   (disponible: 2.32 GB)
+Umbral de alerta: 75 %   Alertas registradas: 0
+
+!!! ALERTA: la RAM está al 85.2 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:36   (Ctrl+C para salir)
+CPU (12 lógicos) ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  36.7 %
+RAM               ██████████████████████████████████░░░░░░  85.9 %
+RAM usada: 13.45 GB / 15.65 GB   (disponible: 2.20 GB)
+Umbral de alerta: 75 %   Alertas registradas: 1
+
+!!! ALERTA: la RAM está al 85.9 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:37   (Ctrl+C para salir)
+CPU (12 lógicos) █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  34.9 %
+RAM               ██████████████████████████████████░░░░░░  86.3 %
+RAM usada: 13.51 GB / 15.65 GB   (disponible: 2.14 GB)
+Umbral de alerta: 75 %   Alertas registradas: 2
+
+!!! ALERTA: la RAM está al 86.3 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:38   (Ctrl+C para salir)
+CPU (12 lógicos) ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  18.7 %
+RAM               ██████████████████████████████████░░░░░░  86.5 %
+RAM usada: 13.54 GB / 15.65 GB   (disponible: 2.11 GB)
+Umbral de alerta: 75 %   Alertas registradas: 3
+
+!!! ALERTA: la RAM está al 86.5 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:39   (Ctrl+C para salir)
+CPU (12 lógicos) ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  11.0 %
+RAM               ██████████████████████████████████░░░░░░  86.5 %
+RAM usada: 13.54 GB / 15.65 GB   (disponible: 2.11 GB)
+Umbral de alerta: 75 %   Alertas registradas: 4
+
+!!! ALERTA: la RAM está al 86.5 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:40   (Ctrl+C para salir)
+CPU (12 lógicos) ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12.4 %
+RAM               ██████████████████████████████████░░░░░░  86.5 %
+RAM usada: 13.54 GB / 15.65 GB   (disponible: 2.11 GB)
+Umbral de alerta: 75 %   Alertas registradas: 5
+
+!!! ALERTA: la RAM está al 86.5 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:41   (Ctrl+C para salir)
+CPU (12 lógicos) ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  16.5 %
+RAM               ███████████████████████████████████░░░░░  87.9 %
+RAM usada: 13.75 GB / 15.65 GB   (disponible: 1.89 GB)
+Umbral de alerta: 75 %   Alertas registradas: 6
+
+!!! ALERTA: la RAM está al 87.9 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:42   (Ctrl+C para salir)
+CPU (12 lógicos) ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.6 %
+RAM               ███████████████████████████████████░░░░░  87.9 %
+RAM usada: 13.75 GB / 15.65 GB   (disponible: 1.90 GB)
+Umbral de alerta: 75 %   Alertas registradas: 7
+
+!!! ALERTA: la RAM está al 87.9 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:43   (Ctrl+C para salir)
+CPU (12 lógicos) ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.3 %
+RAM               ███████████████████████████████████░░░░░  87.6 %
+RAM usada: 13.71 GB / 15.65 GB   (disponible: 1.94 GB)
+Umbral de alerta: 75 %   Alertas registradas: 8
+
+!!! ALERTA: la RAM está al 87.6 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:44   (Ctrl+C para salir)
+CPU (12 lógicos) █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  22.8 %
+RAM               ███████████████████████████████████░░░░░  88.1 %
+RAM usada: 13.78 GB / 15.65 GB   (disponible: 1.87 GB)
+Umbral de alerta: 75 %   Alertas registradas: 9
+
+!!! ALERTA: la RAM está al 88.1 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:45   (Ctrl+C para salir)
+CPU (12 lógicos) ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25.2 %
+RAM               ███████████████████████████████████░░░░░  88.2 %
+RAM usada: 13.81 GB / 15.65 GB   (disponible: 1.84 GB)
+Umbral de alerta: 75 %   Alertas registradas: 10
+
+!!! ALERTA: la RAM está al 88.2 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:46   (Ctrl+C para salir)
+CPU (12 lógicos) ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20.9 %
+RAM               ███████████████████████████████████░░░░░  88.6 %
+RAM usada: 13.86 GB / 15.65 GB   (disponible: 1.79 GB)
+Umbral de alerta: 75 %   Alertas registradas: 11
+
+!!! ALERTA: la RAM está al 88.6 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:47   (Ctrl+C para salir)
+CPU (12 lógicos) ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░  37.5 %
+RAM               ███████████████████████████████████░░░░░  87.8 %
+RAM usada: 13.74 GB / 15.65 GB   (disponible: 1.91 GB)
+Umbral de alerta: 75 %   Alertas registradas: 12
+
+!!! ALERTA: la RAM está al 87.8 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:48   (Ctrl+C para salir)
+CPU (12 lógicos) ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░  38.2 %
+RAM               ███████████████████████████████████░░░░░  88.1 %
+RAM usada: 13.78 GB / 15.65 GB   (disponible: 1.87 GB)
+Umbral de alerta: 75 %   Alertas registradas: 13
+
+!!! ALERTA: la RAM está al 88.1 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+=== VIGILANTE DE RECURSOS ===   23:06:49   (Ctrl+C para salir)
+CPU (12 lógicos) ██████████████████░░░░░░░░░░░░░░░░░░░░░░  47.4 %
+RAM               ███████████████████████████████████░░░░░  88.3 %
+RAM usada: 13.82 GB / 15.65 GB   (disponible: 1.83 GB)
+Umbral de alerta: 75 %   Alertas registradas: 14
+
+!!! ALERTA: la RAM está al 88.3 % (umbral 75 %) — registrado en log_ram.txt
+----------------------------------------------------------------------
+
+Monitor detenido. Muestras: 15. Alertas: 15.
+Revisa el log en: C:\Projects\Manipulación_y_Monitoreo_de_Recursos_del_SO_desde_el_Código\practicas-so\log_ram.txt
